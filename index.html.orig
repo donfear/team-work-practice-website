@@ -55,6 +55,11 @@
     </footer>
   
 <body>
+<<<<<<< HEAD
     
+=======
+    Hello world
+    <a target="popup" href="https://donfear.github.io/team_work_practice/">Open app</a>
+>>>>>>> 3c194139b4b02beadc28381aa692005b68e24667
 </body>
 </html>
